@@ -42,7 +42,7 @@
   },
   "slug": "HA-wyze",
   "startup": "application",
-  "url": "bippityboppity",
+  "url": "https://bippityboppity.com/",
   "version": "1.23.4",
   "webui": "http://[HOST]:[PORT:6052]"
 }
