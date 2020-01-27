@@ -21,7 +21,7 @@
     "ssl:ro",
     "config:rw"
   ],
-  "name": "HA-wyze",
+  "name": "ha-wyze",
   "options": {},
   "panel_icon": "mdi:chip",
   "ports": {
@@ -40,7 +40,7 @@
     "status_use_ping": "bool?",
     "streamer_mode": "bool?"
   },
-  "slug": "HA-wyze",
+  "slug": "ha-wyze",
   "startup": "application",
   "url": "https://bippityboppity.com/",
   "version": "1.23.4",
