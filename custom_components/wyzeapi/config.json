@@ -27,3 +27,22 @@
   "ports": {
     "6052/tcp": null
   },
+"ports_description": {
+    "6052/tcp": "Web interface (Not required for Hass.io Ingress)"
+  },
+  "schema": {
+    "certfile": "str?",
+    "HA-wyze_version": "str?",
+    "keyfile": "str?",
+    "leave_front_door_open": "bool?",
+    "relative_url": "str?",
+    "ssl": "bool?",
+    "status_use_ping": "bool?",
+    "streamer_mode": "bool?"
+  },
+  "slug": "HA-wyze",
+  "startup": "application",
+  "url": "bippityboppity",
+  "version": "1.23.4",
+  "webui": "http://[HOST]:[PORT:6052]"
+}
